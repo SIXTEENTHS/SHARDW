@@ -1,2 +1,1 @@
-# SHARDW
-Cloud-Store who works with scratchattach
+For install the library : run in command prompt: pip install shardw
